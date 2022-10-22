@@ -1,0 +1,279 @@
+[
+  {
+    "type": "repository",
+    "url": "https://github.com/bernyq1/authentificatorfacebook",
+    "owner": "https://github.com/bernyq1",
+    "name": "authentificatorfacebook",
+    "description": "bernadetteregis10@gmail.com ",
+    "website": null,
+    "private": false,
+    "has_issues": true,
+    "has_wiki": true,
+    "has_downloads": true,
+    "is_archived": false,
+    "labels": [
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/bug",
+        "name": "bug",
+        "color": "d73a4a",
+        "description": "Something isn't working",
+        "created_at": "2020-01-04T12:19:56Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/documentation",
+        "name": "documentation",
+        "color": "0075ca",
+        "description": "Improvements or additions to documentation",
+        "created_at": "2020-01-04T12:19:56Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/duplicate",
+        "name": "duplicate",
+        "color": "cfd3d7",
+        "description": "This issue or pull request already exists",
+        "created_at": "2020-01-04T12:19:56Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/enhancement",
+        "name": "enhancement",
+        "color": "a2eeef",
+        "description": "New feature or request",
+        "created_at": "2020-01-04T12:19:56Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/good%20first%20issue",
+        "name": "good first issue",
+        "color": "7057ff",
+        "description": "Good for newcomers",
+        "created_at": "2020-01-04T12:19:56Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/help%20wanted",
+        "name": "help wanted",
+        "color": "008672",
+        "description": "Extra attention is needed",
+        "created_at": "2020-01-04T12:19:56Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/invalid",
+        "name": "invalid",
+        "color": "e4e669",
+        "description": "This doesn't seem right",
+        "created_at": "2020-01-04T12:19:57Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/question",
+        "name": "question",
+        "color": "d876e3",
+        "description": "Further information is requested",
+        "created_at": "2020-01-04T12:19:57Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/authentificatorfacebook/labels/wontfix",
+        "name": "wontfix",
+        "color": "ffffff",
+        "description": "This will not be worked on",
+        "created_at": "2020-01-04T12:19:57Z"
+      }
+    ],
+    "collaborators": [
+
+    ],
+    "created_at": "2020-01-04T12:19:56Z",
+    "git_url": "tarball://root/repositories/bernyq1/authentificatorfacebook.git",
+    "default_branch": "master",
+    "webhooks": [
+
+    ],
+    "page": null,
+    "public_keys": [
+
+    ],
+    "repository_topics": [
+
+    ],
+    "security_and_analysis": {
+      "dependency_graph": true,
+      "vulnerability_alerts": true,
+      "vulnerability_updates": false,
+      "advanced_security": false,
+      "token_scanning": false,
+      "token_scanning_push_protection": false
+    },
+    "autolinks": [
+
+    ],
+    "general_settings": {
+      "template": false,
+      "allow_forking": true,
+      "sponsorships": false,
+      "projects": true,
+      "discussions": false,
+      "merge_commit": true,
+      "squash_merge": true,
+      "rebase_merge": true,
+      "auto_merge": false,
+      "delete_branch_heads": false,
+      "update_branch": false,
+      "git_lfs_in_archives": false
+    },
+    "actions_general_settings": {
+      "actions_disabled": false,
+      "allows_all_actions": true,
+      "allows_local_actions_only": false,
+      "allows_github_owned_actions": false,
+      "allows_verified_actions": false,
+      "allows_specific_actions_patterns": false,
+      "patterns": [
+
+      ]
+    }
+  },
+  {
+    "type": "repository",
+    "url": "https://github.com/bernyq1/bernyq1",
+    "owner": "https://github.com/bernyq1",
+    "name": "bernyq1",
+    "description": "Config files for my GitHub profile.",
+    "website": "https://github.com/bernyq1",
+    "private": true,
+    "has_issues": false,
+    "has_wiki": false,
+    "has_downloads": true,
+    "is_archived": false,
+    "labels": [
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/bug",
+        "name": "bug",
+        "color": "d73a4a",
+        "description": "Something isn't working",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/documentation",
+        "name": "documentation",
+        "color": "0075ca",
+        "description": "Improvements or additions to documentation",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/duplicate",
+        "name": "duplicate",
+        "color": "cfd3d7",
+        "description": "This issue or pull request already exists",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/enhancement",
+        "name": "enhancement",
+        "color": "a2eeef",
+        "description": "New feature or request",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/good%20first%20issue",
+        "name": "good first issue",
+        "color": "7057ff",
+        "description": "Good for newcomers",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/help%20wanted",
+        "name": "help wanted",
+        "color": "008672",
+        "description": "Extra attention is needed",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/invalid",
+        "name": "invalid",
+        "color": "e4e669",
+        "description": "This doesn't seem right",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/question",
+        "name": "question",
+        "color": "d876e3",
+        "description": "Further information is requested",
+        "created_at": "2021-05-04T10:31:53Z"
+      },
+      {
+        "url": "https://github.com/bernyq1/bernyq1/labels/wontfix",
+        "name": "wontfix",
+        "color": "ffffff",
+        "description": "This will not be worked on",
+        "created_at": "2021-05-04T10:31:53Z"
+      }
+    ],
+    "collaborators": [
+
+    ],
+    "created_at": "2021-05-04T10:31:53Z",
+    "git_url": "tarball://root/repositories/bernyq1/bernyq1.git",
+    "default_branch": "main",
+    "webhooks": [
+
+    ],
+    "page": null,
+    "public_keys": [
+
+    ],
+    "repository_topics": [
+      {
+        "topic_url": null,
+        "topic_name": "config",
+        "repository": "https://github.com/bernyq1/bernyq1",
+        "creator": "https://github.com/bernyq1",
+        "state": "created",
+        "created_at": "2021-05-04T06:31:54.000-04:00",
+        "updated_at": "2021-05-04T06:31:54.000-04:00"
+      },
+      {
+        "topic_url": null,
+        "topic_name": "github-config",
+        "repository": "https://github.com/bernyq1/bernyq1",
+        "creator": "https://github.com/bernyq1",
+        "state": "created",
+        "created_at": "2021-05-04T06:31:54.000-04:00",
+        "updated_at": "2021-05-04T06:31:54.000-04:00"
+      }
+    ],
+    "security_and_analysis": {
+      "dependency_graph": true,
+      "vulnerability_alerts": false,
+      "vulnerability_updates": false,
+      "advanced_security": false,
+      "token_scanning": false,
+      "token_scanning_push_protection": false
+    },
+    "autolinks": [
+
+    ],
+    "general_settings": {
+      "template": false,
+      "allow_forking": true,
+      "sponsorships": false,
+      "projects": true,
+      "discussions": false,
+      "merge_commit": true,
+      "squash_merge": true,
+      "rebase_merge": true,
+      "auto_merge": false,
+      "delete_branch_heads": false,
+      "update_branch": false,
+      "git_lfs_in_archives": false
+    },
+    "actions_general_settings": {
+      "actions_disabled": false,
+      "allows_all_actions": true,
+      "allows_local_actions_only": false,
+      "allows_github_owned_actions": false,
+      "allows_verified_actions": false,
+      "allows_specific_actions_patterns": false,
+      "patterns": [
+
+      ]
+    }
+  }
+]
